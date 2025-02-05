@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_contato.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_email.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_endereco.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_fisica_ou_juridica.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_fisica_sexo.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_fisica_trabalha_em_empresa_ativa.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_geral.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_juridica_inserir_cnpjactivity.xml" value="0.2" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_juridica_seguimento.xml" value="0.25" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_pagamento.xml" value="0.1953125" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_quarta_pfactivity.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_quarta_pjactivity.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_segunda.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_segunda_juridica.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_senha.xml" value="0.1953125" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_terceira.xml" value="0.33" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_terceira_pjactivity.xml" value="0.209375" />
+        <entry key="..\:/Users/REIS/AndroidStudioProjects/TesteBonequinhos/app/src/main/res/layout/activity_termos.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

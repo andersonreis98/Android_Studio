@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.gallery.GalleryFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textViewTitulo2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:gravity="center"
+            android:text="Sistema de Gestão de Qualidade"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:text="	Lorem ipsum erat lectus ultricies praesent venenatis quisque, commodo varius tempor viverra donec libero. netus vitae cursus nunc mi mollis dictum a mauris tortor mattis adipiscing ultricies congue dolor, turpis nostra cubilia eros sagittis dapibus magna sed dictum sollicitudin hendrerit luctus praesent. nam volutpat condimentum sodales dapibus eros lacus nibh aenean iaculis habitant dui scelerisque, inceptos ante sodales nisl placerat fringilla nisi ipsum donec turpis vestibulum consequat, tempor lorem sapien consectetur amet ipsum quisque donec fames libero pharetra. cras nulla etiam accumsan habitasse vehicula ad imperdiet aliquet, vestibulum quis feugiat enim pharetra quisque curae mauris, tincidunt lectus congue curabitur quam per neque.  "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewTitulo2" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:text="	Lorem ipsum erat lectus ultricies praesent venenatis quisque, commodo varius tempor viverra donec libero. netus vitae cursus nunc mi mollis dictum a mauris tortor mattis adipiscing ultricies congue dolor, turpis nostra cubilia eros sagittis dapibus magna sed dictum sollicitudin hendrerit luctus praesent. nam volutpat condimentum sodales dapibus eros lacus nibh aenean iaculis habitant dui scelerisque, inceptos ante sodales nisl placerat fringilla nisi ipsum donec turpis vestibulum consequat, tempor lorem sapien consectetur amet ipsum quisque donec fames libero pharetra. cras nulla etiam accumsan habitasse vehicula ad imperdiet aliquet, vestibulum quis feugiat enim pharetra quisque curae mauris, tincidunt lectus congue curabitur quam per neque.  "
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewTitulo"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/textViewTitulo"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:gravity="center"
+            android:text="Indicadores de Desempenho"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView4" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
